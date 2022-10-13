@@ -65,7 +65,7 @@ ht-degree: 100%
 
 ### [!DNL Real-time Customer Data Platform]
 
-현재 [!DNL Audience Manager Data Management Platform](DMP)을 수정할 계획은 없습니다. 그러나 서드파티 쿠키의 사용 중단으로 인해 대부분의 DMP 사용자에게 확장 문제가 발생할 수 있습니다. 고객이 데이터 관리 방식을 발전시킬 수 있도록 Adobe는 내년에 제한을 받을 수 있는 식별자에 대해 종속성을 줄이도록 권장하고 있습니다. 마케팅 팀은 [!DNL Real-time Customer Data Platform](Real-time CDP)으로 해결할 수 있는 PII(개인 식별 가능 정보)가 포함된 영구 식별자에 중점을 두고 자사 데이터 전략을 구축해야 합니다.
+현재 [!DNL Audience Manager Data Management Platform] (DMP)을 수정할 계획은 없습니다. 그러나 서드파티 쿠키의 사용 중단으로 인해 대부분의 DMP 사용자에게 확장 문제가 발생할 수 있습니다. 고객이 데이터 관리 방식을 발전시킬 수 있도록 Adobe는 내년에 제한을 받을 수 있는 식별자에 대해 종속성을 줄이도록 권장하고 있습니다. 마케팅 팀은 [!DNL Real-time Customer Data Platform] (Real-time CDP)으로 해결할 수 있는 PII(개인 식별 가능 정보)가 포함된 영구 식별자에 중점을 두고 자사 데이터 전략을 구축해야 합니다.
 
 [!DNL Real-time CDP]는 PII를 포함시키기 위해 대상자 생성에 사용할 수 있는 식별자 집합을 확장하여 서드파티 쿠키 및 디바이스 ID에 대한 종속성을 줄입니다. [!DNL Real-time CDP]의 기반은 실시간 고객 프로필로, 개인 속성 데이터와 행동 데이터를 실시간으로 통합하고 마케터가 특허 받은 데이터 거버넌스 컨트롤로 풍부한 대상자 세그먼트를 만들 수 있습니다. [!DNL Audience Manager]처럼, [!DNL Real-time CDP]는 인사이트 및 개인화 사용 사례를 강화할 뿐만 아니라 보다 세분화된 개인 수준 인사이트를 생성하고 유료 미디어, 소셜 미디어, 이메일 및 고객 시스템 등 광고 기술 및 마케팅 기술에 걸쳐 광범위한 대상으로 대상자를 활성화할 수 있습니다.
 
