@@ -3,10 +3,10 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: “[!DNL Device Co-op] 서비스 종료 FAQ”
 description: Device Co-op 서비스 종료 계획에 대해 자세히 알아보십시오.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: ht
-source-wordcount: '1085'
-ht-degree: 100%
+source-git-commit: 180dd414dd0b595518f54cddc5b02ed06ecc0b16
+workflow-type: tm+mt
+source-wordcount: '1138'
+ht-degree: 95%
 
 ---
 
@@ -101,3 +101,8 @@ ht-degree: 100%
 ## 채택은 얼마나 걸립니까?
 
 기능에 따라 다릅니다. 예를 들어 [!DNL Device Co-op]와 함께 크로스 디바이스 분석을 사용하는 Analytics Ultimate 고객이 실시간 Private Device Graph 또는 필드 기반 결합으로 마이그레이션해야 하는 경우 채택에 시간이 다소 걸릴 수 있습니다.
+
+## 어떻게 된 거죠? [!UICONTROL 사람] 지표?
+
+의 사용 중단 시 [!DNL Device Co-op], [!UICONTROL 사람] 지표는 더 이상 관련이 없습니다. 가까운 미래(날짜 TBD)에 [!UICONTROL 사람] 지표. 이 시점에서 해당 데이터를 [!UICONTROL 고유 방문자] 프로젝트, 세그먼트 및 계산된 지표가 손상되지 않도록 Analytics에서 지표를 작성합니다.
+
