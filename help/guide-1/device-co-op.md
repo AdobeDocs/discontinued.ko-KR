@@ -3,10 +3,10 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: “[!DNL Device Co-op] 서비스 종료 FAQ”
 description: Device Co-op 서비스 종료 계획에 대해 자세히 알아보십시오.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 180dd414dd0b595518f54cddc5b02ed06ecc0b16
-workflow-type: ht
-source-wordcount: '1138'
-ht-degree: 100%
+source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
+workflow-type: tm+mt
+source-wordcount: '1134'
+ht-degree: 99%
 
 ---
 
@@ -104,5 +104,5 @@ ht-degree: 100%
 
 ## [!UICONTROL 사용자] 지표는 어떻게 됩니까?
 
-[!DNL Device Co-op] 서비스 중단으로 인해 [!UICONTROL 사용자] 지표는 더 이상 관련이 없습니다. 가까운 시일(날짜 미정) 내에 [!UICONTROL 사용자] 지표가 제거될 예정입니다. 프로젝트, 세그먼트 및 계산된 지표가 손상되지 않도록 해당 시점에 관련 데이터는 [!UICONTROL 고유 방문자] 지표로 리디렉션될 예정입니다.
+[!DNL Device Co-op] 서비스 중단으로 인해 [!UICONTROL 사용자] 지표는 더 이상 관련이 없습니다. 2023년 5월 8일에 [!UICONTROL 사람] 지표. 프로젝트, 세그먼트 및 계산된 지표가 손상되지 않도록 해당 시점에 관련 데이터는 [!UICONTROL 고유 방문자] 지표로 리디렉션될 예정입니다.
 
