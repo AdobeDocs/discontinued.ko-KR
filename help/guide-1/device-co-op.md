@@ -4,15 +4,15 @@ title: “[!DNL Device Co-op] 서비스 종료 FAQ”
 description: Device Co-op 서비스 종료 계획에 대해 자세히 알아보십시오.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1134'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 # [!DNL Device Co-op] 서비스 종료 FAQ
 
-이 문서에서는 [!DNL Adobe Experience Cloud Device Co-op] 서비스 종료(EOL) 계획에 대해 가장 자주 묻는 질문에 대한 답변을 알아봅니다. 이 계획이 시행되면 Adobe는 [Experience Cloud 릴리스 정보](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) 및 [우선순위 제품 업데이트](https://www.adobe.com/subscription/priority-product-update.html)를 통해 사전 공지합니다.
+이 문서에서는 [!DNL Adobe Experience Cloud Device Co-op] 서비스 종료(EOL) 계획에 대해 가장 자주 묻는 질문에 대한 답변을 알아봅니다. 이 계획이 시행되면 Adobe는 [Experience Cloud 릴리스 정보](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) 및 [우선순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 통해 사전 공지합니다.
 
 [!DNL Device Co-op]는 최고 수준의 개인 정보 보호 및 투명성을 보장하면서 디지털 접점 전반에 걸쳐 소비자를 더 잘 식별하기 위해 참가자가 협력할 수 있는 프로그램이었습니다.
 
@@ -48,16 +48,16 @@ ht-degree: 99%
 
 [!DNL Device Co-op] 서비스 종료 절차에 따라 다음의 애플리케이션이 영향을 받게 됩니다.
 
-- [[!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics.html?lang=en)
-- [[!DNL Adobe Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=en)
-- [[!DNL Adobe Advertising Cloud]](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=en)
-- [[!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en)
+- [[!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics.html?lang=ko)
+- [[!DNL Adobe Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=ko)
+- [[!DNL Adobe Advertising Cloud]](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=ko)
+- [[!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=ko)
 
 ## [!DNL Device Co-op]의 대안으로 어떤 옵션이 있습니까?
 
 ### [!DNL Analytics]
 
-[!DNL Analytics] [크로스 디바이스 분석(CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html) 기능은 Adobe Experience Platform ID 서비스 [개인 그래프](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=en)와 [필드 기반 결합](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=en)을 모두 지원하므로 사용할 수 있습니다.
+[!DNL Analytics] [크로스 디바이스 분석(CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html) 기능은 Adobe Experience Platform ID 서비스 [개인 그래프](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=ko)와 [필드 기반 결합](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=ko)을 모두 지원하므로 사용할 수 있습니다.
 
 ### [!DNL Audience Manager]
 
@@ -69,7 +69,7 @@ ht-degree: 99%
 
 [!DNL Real-time CDP]는 PII를 포함시키기 위해 대상자 생성에 사용할 수 있는 식별자 집합을 확장하여 서드파티 쿠키 및 디바이스 ID에 대한 종속성을 줄입니다. [!DNL Real-time CDP]의 기반은 실시간 고객 프로필로, 개인 속성 데이터와 행동 데이터를 실시간으로 통합하고 마케터가 특허 받은 데이터 거버넌스 컨트롤로 풍부한 대상자 세그먼트를 만들 수 있습니다. [!DNL Audience Manager]처럼, [!DNL Real-time CDP]는 인사이트 및 개인화 사용 사례를 강화할 뿐만 아니라 보다 세분화된 개인 수준 인사이트를 생성하고 유료 미디어, 소셜 미디어, 이메일 및 고객 시스템 등 광고 기술 및 마케팅 기술에 걸쳐 광범위한 대상으로 대상자를 활성화할 수 있습니다.
 
-[!DNL Real-time CDP]는 [Adobe Experience Platform 세그먼트 일치(Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=en)에 대한 액세스도 포함되며, 이를 통해 브랜드는 파트너십으로 자사 데이터 세트를 확장하고 향상된 인사이트 및 개인화를 달성할 수 있습니다.
+[!DNL Real-time CDP]는 [Adobe Experience Platform 세그먼트 일치(Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=ko)에 대한 액세스도 포함되며, 이를 통해 브랜드는 파트너십으로 자사 데이터 세트를 확장하고 향상된 인사이트 및 개인화를 달성할 수 있습니다.
 
 ### [!DNL Target]
 
@@ -84,7 +84,7 @@ ht-degree: 99%
 기존의 방문자 ID 서비스 구현이 Analytics [CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html)를 강화합니다. 기존의 선언된 ID가 해시된 이메일인 경우 이를 사용하여 다음 기능을 강화할 수 있습니다.
 
 - [!DNL Audience Manager] [사람 기반 대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
-- [Experience Platform 세그먼트 매치 (Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=en).
+- [Experience Platform 세그먼트 매치 (Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=ko).
 
 ## [!DNL Device Co-op]에 내 데이터가 보관됩니까?
 
@@ -104,5 +104,5 @@ ht-degree: 99%
 
 ## [!UICONTROL 사용자] 지표는 어떻게 됩니까?
 
-[!DNL Device Co-op] 서비스 중단으로 인해 [!UICONTROL 사용자] 지표는 더 이상 관련이 없습니다. 2023년 5월 8일에 [!UICONTROL 사람] 지표. 프로젝트, 세그먼트 및 계산된 지표가 손상되지 않도록 해당 시점에 관련 데이터는 [!UICONTROL 고유 방문자] 지표로 리디렉션될 예정입니다.
+[!DNL Device Co-op] 서비스 중단으로 인해 [!UICONTROL 사용자] 지표는 더 이상 관련이 없습니다. 2023년 5월 8일부로 [!UICONTROL 사용자] 지표가 제거될 예정입니다. 프로젝트, 세그먼트 및 계산된 지표가 손상되지 않도록 해당 시점에 관련 데이터는 [!UICONTROL 고유 방문자] 지표로 리디렉션될 예정입니다.
 
