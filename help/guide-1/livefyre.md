@@ -1,8 +1,9 @@
 ---
-title: “[!DNL Adobe Livefyre] 서비스 종료”
+title: '[!DNL Adobe Livefyre] 서비스 종료'
 description: Livefyre 및 Livefyre Studio에 대한 Livefyre 서비스 종료 알림.
-source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: ht
+exl-id: 696f6363-7b17-4a05-bde7-e43141ea84de
+source-git-commit: 05a624f7ba8863b50e86dac1ee5d92782be31737
+workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 100%
 

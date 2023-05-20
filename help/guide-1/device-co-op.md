@@ -4,7 +4,7 @@ title: “[!DNL Device Co-op] 서비스 종료 FAQ”
 description: Device Co-op 서비스 종료 계획에 대해 자세히 알아보십시오.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1134'
 ht-degree: 100%
 
