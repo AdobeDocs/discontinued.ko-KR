@@ -3,9 +3,9 @@ user-guide-title: ' [!DNL Adobe Experience Cloud] 단종 제품'
 breadcrumb-title: 단종 제품
 user-guide-description: ' [!DNL Adobe Experience Cloud] 단종 제품 목록'
 source-git-commit: 1d514ff65d7de9d9f95f5ff68100ccbe09d5f95f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '34'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
