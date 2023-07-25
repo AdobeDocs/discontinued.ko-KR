@@ -3,17 +3,17 @@ description: Adobe Experience Cloud 라이브러리는 Adobe Experience Cloud �
 title: Adobe Experience Cloud 라이브러리
 exl-id: 4f1bb155-66f9-492f-9902-686c2758d341
 source-git-commit: 1d514ff65d7de9d9f95f5ff68100ccbe09d5f95f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 # Adobe Experience Cloud 라이브러리{#adobe-experience-cloud-library}
 
-2020년 3월 현재, Adobe은 공식적으로 Adobe Experience Cloud 라이브러리를 사용하지 않습니다. 여기에 더 이상 액세스할 수 없습니다.
+2020년 3월 현재 Adobe는 공식적으로 Adobe Experience Cloud 라이브러리를 사용하지 않습니다. 여기에 더 이상 액세스할 수 없습니다.
 
 **관련 기능**
 
-* [Experience Cloud 에셋](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html)
+* [Experience Cloud Assets](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html)
 * [AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html)
