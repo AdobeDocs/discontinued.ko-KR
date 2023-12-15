@@ -3,7 +3,7 @@ title: ' [!DNL Adobe Experience Cloud] 단종 제품 개요'
 description: ' [!DNL Adobe Experience Cloud] 및 [!DNL Adobe Experience Platform] 단종, 중단 또는 서비스 종료 제품'
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
 source-git-commit: 55fd2cc6ba04830e11d87730b5a8921f5f0fb6dd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
 ht-degree: 100%
 
