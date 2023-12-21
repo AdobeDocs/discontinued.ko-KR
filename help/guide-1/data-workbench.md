@@ -1,44 +1,44 @@
 ---
 title: “[!DNL Data Workbench] 서비스 종료”
-description: 이 문서에서는 의 수명 종료에 대한 FAQ를 다룹니다. [!DNL Data Workbench].
+description: 이 문서에서는 [!DNL Data Workbench] 서비스 종료와 관련된 FAQ를 다룹니다.
 source-git-commit: e1e9afda7c64a1343d533d0c200296efbe7872e8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '380'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
 # Data Workbench 서비스 종료 FAQ
 
-Data Workbench의 서비스 종료 날짜는 다음과 같습니다. **2023년 12월 31일**.
+Data Workbench의 서비스 종료 날짜는 **2023년 12월 31일**&#x200B;입니다.
 
-## 무엇이 포함됩니까?
+## 포함 사항
 
-이 발표는 Managed Services 및 On-Premise Software 솔루션을 포함하여 Data Workbench에 의존하는 모든 솔루션에 영향을 미칩니다. 이 서비스 종료는 Data Workbench에만 영향을 주며 Adobe Analytics 내의 다른 기능이나 구성 요소에는 영향을 주지 않습니다.
+이 공지는 Managed Services 및 온프레미스 소프트웨어 솔루션을 포함하여 Data Workbench를 사용하는 모든 솔루션에 영향을 미칩니다. 이 서비스 종료는 Data Workbench에만 영향을 미치며 Adobe Analytics 내의 다른 기능이나 구성 요소에는 영향을 주지 않습니다.
 
-## Data Workbench이 은퇴하는 이유는 무엇입니까?
+## Data Workbench 서비스가 종료되는 이유는 무엇입니까?
 
-Adobe Experience Platform의 출시와 지속적인 개선을 통해 고객은 여러 채널에서 데이터를 결합하여 여러 Adobe 솔루션에서 사용할 수 있습니다. 특히, [Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html) 크로스 채널 데이터를 가져와 해당 데이터에 대한 고급 분석을 수행할 수 있습니다.
+Adobe Experience Platform의 릴리스와 지속적인 개선을 통해 고객은 여러 채널에 걸쳐 데이터를 결합하여 여러 Adobe 솔루션에서 사용할 수 있습니다. 특히 [Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko)를 사용하면 크로스 채널 데이터를 수집하여 해당 데이터에 대한 고급 분석을 수행할 수 있습니다.
 
-현재 Data Workbench에서 사용할 수 있는 대부분의 기능 및 사용 사례는 현재 Adobe Experience Platform 솔루션에서 사용할 수 있습니다. 하지만 Data Workbench 기능이 각각의 Adobe Experience Platform 솔루션으로 복제되지 않는 경우는 제한적입니다. 기능 또는 사용 사례 호환성의 특정 영역에 대해 논의하려면 조직의 Adobe 계정 관리자에게 문의하십시오.
+현재 Data Workbench에서 사용 가능한 기능 및 사용 사례는 대부분 Adobe Experience Platform 솔루션에서 사용할 수 있습니다. 그러나 Data Workbench 기능이 해당 Adobe Experience Platform 솔루션으로 복제되지 않는 경우가 있습니다. 기능 또는 사용 사례의 호환성에 관해 논의하려면 조직의 Adobe 계정 관리자에게 문의하십시오.
 
-## 온-프레미스 배포에 대한 Adobe 지침이란 무엇입니까?
+## 온프레미스 배포에 대한 Adobe의 지침은 무엇입니까?
 
-고객은 고급 분석을 위해 현재 Adobe 솔루션으로 이동하는 것이 좋습니다. 레거시 영구 라이선스 고객은 Data Workbench을 계속 사용하도록 결정할 수 있습니다. 그러나 Adobe은 중요한 버그 또는 보안 취약점을 포함하여 제품을 지원하거나 업데이트할 계획이 없습니다. 서비스 종료 날짜가 지난 Data Workbench의 온-프레미스 배포를 계속 사용하는 것은 조직의 자체 위험 상황에서 수행됩니다.
+고객은 고급 분석을 위해 최신 Adobe 솔루션으로 전환하는 것이 좋습니다. 기존 영구 라이선스 고객은 Data Workbench를 계속 사용할 수 있습니다. 그러나 Adobe는 중요한 버그나 보안 취약성을 포함하여 해당 제품을 지원하거나 업데이트할 계획이 없습니다. 서비스 종료 날짜가 지난 Data Workbench의 온프레미스 배포를 계속 사용할 경우 조직에서 자체적으로 책임을 감수해야 합니다.
 
-## Data Workbench에 도움이 되는 컨설팅 서비스를 구입할 수 있습니까?
+## Data Workbench를 지원하는 컨설팅 서비스를 구매할 수 있습니까?
 
-서비스 종료 날짜까지 Adobe Professional Services을 구매할 수 있습니다. 이 날짜 이후에는 Adobe Professional Services을 사용할 수 없습니다. 일부 외부 파트너는 Data Workbench 서비스를 계속 제공할 수 있습니다. 그러한 경우 Adobe의 보증 없이 해당 외부 파트너만 이를 수행합니다.
+서비스 종료일까지 Adobe Professional Services를 구매할 수 있습니다. 해당 날짜 이후에는 Adobe Professional Services를 사용할 수 없습니다. 일부 외부 파트너는 Data Workbench에 대한 서비스를 계속 제공하도록 선택할 수 있습니다. 이 경우 Adobe의 보증 없이 해당 외부 파트너에 의해서만 제공됩니다.
 
-## Adobe이 권장하는 향후 솔루션 또는 제품은 무엇입니까?
+## Adobe에서 전환을 권장하는 솔루션 또는 제품은 무엇입니까?
 
-Adobe은 현재 Data Workbench과 유사한 요구 사항을 충족하는 다음과 같은 Adobe Experience Platform 솔루션을 제공합니다.
+Adobe는 현재 Data Workbench와 유사한 요구 사항을 충족하는 다음 Adobe Experience Platform 솔루션을 제공합니다.
 
-* [**Customer Journey Analytics**](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html): Adobe Experience Platform의 다중 채널 데이터에 대한 속성, 필터, 흐름 및 폴아웃과 같은 고급 분석 기술을 사용합니다.
-* [**쿼리 서비스**](https://experienceleague.adobe.com/docs/experience-platform/query/home.html): Adobe Experience Platform의 데이터에 대해 SQL 쿼리를 수행합니다.
-* [**데이터 준비**](https://experienceleague.adobe.com/docs/experience-platform/data-prep/home.html): 다른 Adobe Experience Platform 솔루션에서 보다 효과적으로 사용할 수 있도록 데이터를 매핑, 변형 및 검증합니다.
+* [**Customer Journey Analytics**](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=ko): Adobe Experience Platform의 다중 채널 데이터에 대한 속성, 필터, 흐름 및 폴아웃과 같은 고급 분석 기술을 사용합니다.
+* [**쿼리 서비스**](https://experienceleague.adobe.com/docs/experience-platform/query/home.html?lang=ko-KR): Adobe Experience Platform의 데이터에 대해 SQL 쿼리를 수행합니다.
+* [**데이터 준비**](https://experienceleague.adobe.com/docs/experience-platform/data-prep/home.html?lang=ko-KR): 다른 Adobe Experience Platform 솔루션에서 보다 효과적으로 사용할 수 있도록 데이터를 매핑, 변환 및 검증합니다.
 
-## 자세한 정보는 어디에서 확인할 수 있습니까?
+## 자세한 내용은 어디에서 확인할 수 있습니까?
 
-이에 대한 자세한 내용 또는 질문이 있는 경우 조직의 Adobe 계정 관리자에게 문의하십시오 [서비스 종료 공지](https://express.adobe.com/page/GSu6oKOD88GAj/).
+이 [서비스 종료 공지](https://express.adobe.com/page/GSu6oKOD88GAj/)에 대한 세부 사항이나 질문은 귀사의 Adobe 계정 관리자에게 문의하십시오.
