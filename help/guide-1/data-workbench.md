@@ -3,7 +3,7 @@ title: “[!DNL Data Workbench] 서비스 종료”
 description: 이 문서에서는 [!DNL Data Workbench] 서비스 종료와 관련된 FAQ를 다룹니다.
 exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
 source-git-commit: d8a954bf197c87d3ef705bdf8bc67b9810c2502b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 100%
 
