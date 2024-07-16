@@ -3,9 +3,9 @@ description: Adobe Experience Cloud 라이브러리는 Adobe Experience Cloud �
 title: Adobe Experience Cloud 라이브러리
 exl-id: 4f1bb155-66f9-492f-9902-686c2758d341
 source-git-commit: 670d90c79523826416eb9564b7835e27ad5cb286
-workflow-type: ht
-source-wordcount: '70'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '58'
+ht-degree: 94%
 
 ---
 
@@ -15,5 +15,5 @@ ht-degree: 100%
 
 **관련 기능**
 
-* [Experience Cloud Assets](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html){target=_blank}
+* [Assets Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html){target=_blank}
 * [AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html){target=_blank}

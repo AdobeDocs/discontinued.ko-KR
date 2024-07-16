@@ -4,8 +4,8 @@ description: Livefyre 및 Livefyre Studio에 대한 Livefyre 서비스 종료 �
 exl-id: 696f6363-7b17-4a05-bde7-e43141ea84de
 source-git-commit: 05a624f7ba8863b50e86dac1ee5d92782be31737
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 100%
+source-wordcount: '229'
+ht-degree: 99%
 
 ---
 

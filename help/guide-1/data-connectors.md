@@ -3,7 +3,7 @@ description: Adobe Analytics Data Connectors 통합 기능 서비스 중단에 �
 title: Analytics Data Connectors 통합 기능 서비스 종료
 exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
 source-git-commit: 4bcdf13748a4723ec088d8fa6ca57c664b3e2a32
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 100%
 
