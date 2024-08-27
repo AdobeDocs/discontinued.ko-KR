@@ -2,7 +2,7 @@
 title: Adobe Commerce 확장 기능용 채널 관리자
 description: Adobe Commerce 확장 기능용 채널 관리자의 서비스 종료 시점에 대해 알아봅니다.
 source-git-commit: 08c3b323fcff5630b5165946508689c5556e54b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
