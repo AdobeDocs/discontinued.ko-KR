@@ -4,9 +4,9 @@ title: '[!DNL Device Co-op] 서비스 종료 FAQ'
 description: Device Co-op 서비스 종료 계획에 대해 자세히 알아보십시오.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 2e33e76c0fbb45661fd92297b0f91e5b8f304b6c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1053'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 99%
 
 ### [!DNL Analytics]
 
-[!DNL Analytics] [크로스 디바이스 분석(CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html) 기능은 Adobe Experience Platform ID 서비스 [개인 그래프](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=ko)와 [필드 기반 결합](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=ko)을 모두 지원하므로 사용할 수 있습니다.
+[!DNL Analytics] [크로스 디바이스 분석(CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html) 기능은 Adobe Experience Platform ID 서비스 [비공개 그래프](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=ko)와 [필드 기반 결합](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=ko)을 모두 지원하므로 사용할 수 있습니다.
 
 ### [!DNL Audience Manager]
 
@@ -77,7 +77,7 @@ ht-degree: 99%
 
 ### Adobe Advertising Cloud
 
-[!DNL Advertising Cloud] 고객은 더 이상 [!DNL Device Co-op]를 크로스 디바이스 대상자 타겟팅 및 측정에 사용할 수 없습니다. [!DNL Advertising Cloud]를 사용하더라도 [!DNL LiveRamp]와 Adobe의 [!DNL Device Graph] 파트너십을 활용하여 [!DNL LiveRamp's]의 기능 및 확장 범위 내에서 이러한 기능을 계속 수행할 수 있습니다. [!DNL Device Co-op]를 사용하는 캠페인이 종료되도록 허용한 다음 [!DNL LiveRamp] 디바이스 그래프 공급자로 전환하거나 사람 기반 타겟팅을 활용하지 않아야 합니다.
+[!DNL Advertising Cloud] 고객은 더 이상 [!DNL Device Co-op]를 크로스 디바이스 대상자 타기팅 및 측정에 사용할 수 없습니다. [!DNL Advertising Cloud]를 사용하더라도 [!DNL LiveRamp]와 Adobe의 [!DNL Device Graph] 파트너십을 활용하여 [!DNL LiveRamp's]의 기능 및 확장 범위 내에서 이러한 기능을 계속 수행할 수 있습니다. [!DNL Device Co-op]를 사용하는 캠페인이 종료되도록 허용한 다음 [!DNL LiveRamp] 디바이스 그래프 공급자로 전환하거나 사람 기반 타기팅을 활용하지 않아야 합니다.
 
 ## 쿠키 없는 미래를 준비하는 데 도움이 될 수 있는 기존 기능과 구현은 무엇입니까?
 
@@ -100,7 +100,7 @@ ht-degree: 99%
 
 ## 채택은 얼마나 걸립니까?
 
-기능에 따라 다릅니다. 예를 들어 [!DNL Device Co-op]와 함께 크로스 디바이스 분석을 사용하는 Analytics Ultimate 고객이 실시간 Private Device Graph 또는 필드 기반 결합으로 마이그레이션해야 하는 경우 채택에 시간이 다소 걸릴 수 있습니다.
+기능에 따라 다릅니다. 예를 들어 [!DNL Device Co-op]와 함께 크로스 디바이스 분석을 사용하는 Analytics Ultimate 고객이 실시간 비공개 디바이스 그래프 또는 필드 기반 결합으로 마이그레이션해야 하는 경우 채택에 시간이 다소 걸릴 수 있습니다.
 
 ## [!UICONTROL 사용자] 지표는 어떻게 됩니까?
 
