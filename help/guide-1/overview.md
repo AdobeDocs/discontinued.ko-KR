@@ -2,9 +2,9 @@
 title: ' [!DNL Adobe Experience Cloud] 단종 제품 개요'
 description: ' [!DNL Adobe Experience Cloud] 및 [!DNL Adobe Experience Platform] 단종, 중단 또는 서비스 종료 제품'
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: e9f709eb76e4a00bb6d438dd5505c160e064e407
+source-git-commit: 3019dde6f05912926a1630f486fbe4c358ccf4ce
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '111'
 ht-degree: 100%
 
 ---
@@ -15,15 +15,18 @@ Adobe는 시장 상황 및 고객에 대한 영향의 변화로 제품 또는 �
 
 ## 단종 제품 목록
 
-* [[!DNL Device Co-op]](device-co-op.md)
+* [[!DNL Channels for Adobe Commerce]](commerce-channels.md)
+* [[!DNL Data Connectors]](data-connectors.md)
 * [[!DNL Data Workbench]](data-workbench.md)
+* [[!DNL Device Co-op]](device-co-op.md)
+* [[!DNL Experience Cloud Library]](experience-cloud-library.md)
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
-* [[!DNL Mobile Services]](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html?lang=ko){target="_blank"}
+* [[!DNL Mobile Services]](mobile-services.md)
 * [[!DNL Reports & Analytics]](reports-and-analytics.md)
 * [[!DNL Search&Promote]](search-promote.md)
 * [[!DNL Social]](social.md)
-* [[!DNL Experience Cloud Library]](experience-cloud-library.md)
+* [[!DNL Store Fulfillment for Adobe Commerce]](commerce-store-fulfillment.md)
 
 <!--
 ## Notifications of upcoming products to be discontinued
@@ -37,7 +40,7 @@ Adobe는 시장 상황 및 고객에 대한 영향의 변화로 제품 또는 �
 * *[!DNL Adobe Acrobat DC]*&#x200B;는 이제 *[!DNL Adobe Acrobat]* 입니다.
 * *[!DNL Adobe Sign]*&#x200B;은 이제 *[!DNL Acrobat Sign]*&#x200B;입니다.
 * *[!DNL Magento]*&#x200B;는 이제 *[!DNL Adobe Commerce]*&#x200B;입니다.
-* *[!DNL Launch]*/*[!DNL Experience Platform Launch]*&#x200B;는 이제 [!DNL Adobe Data Collection]에서 *태그*&#x200B;라고 합니다. [태그 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=ko)를 참조하십시오.
+* *[!DNL Launch]*/*[!DNL Experience Platform Launch]*&#x200B;는 이제 [!DNL Adobe Data Collection]에서 *태그*&#x200B;라고 합니다. [태그 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html)를 참조하십시오.
 * *[!DNL XML Documentation for Adobe Experience Manager]*&#x200B;는 이제 *[!DNL Adobe Experience Manager Guides]*&#x200B;입니다.
 * *[!DNL Captivate Prime]*&#x200B;은 이제 *[!DNL Adobe Learning Manager]*&#x200B;입니다.
 * *[!DNL Bizible]*&#x200B;은 이제 *[!DNL Marketo Measure]*&#x200B;입니다.
@@ -45,8 +48,8 @@ Adobe는 시장 상황 및 고객에 대한 영향의 변화로 제품 또는 �
 ## 추가 단종 제품
 
 * *[!DNL Adobe Bloodhound]*&#x200B;는 2017년 5월 1일에 만료되었습니다.
-* *[!DNL AEM Mobile]*&#x200B;은 2021년 4월 3일부로 단종되었습니다. [AEM Mobile 서비스 종료 FAQ](https://helpx.adobe.com/kr/digital-publishing-solution/help/aem-mobile-end-of-life-faq.html)를 참조하십시오.
+* *[!DNL AEM Mobile]*&#x200B;은 2021년 4월 3일부로 단종되었습니다. [AEM Mobile 서비스 종료 FAQ](https://helpx.adobe.com/digital-publishing-solution/help/aem-mobile-end-of-life-faq.html)를 참조하십시오.
 
 >[!MORELIKETHIS]
 >
->Adobe 추가 단종 앱 및 서비스 목록은 [무료 및 단종 제품 | 지원 옵션](https://helpx.adobe.com/kr/support/programs/support-options-free-discontinued-apps-services.html)에서 확인하십시오.
+>Adobe 추가 단종 앱 및 서비스 목록은 [무료 및 단종 제품 | 지원 옵션](https://helpx.adobe.com/support/programs/support-options-free-discontinued-apps-services.html)에서 확인하십시오.
