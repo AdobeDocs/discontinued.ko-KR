@@ -3,7 +3,7 @@ user-guide-title: ' [!DNL Adobe Experience Cloud] 단종 제품'
 breadcrumb-title: 단종 제품
 user-guide-description: ' [!DNL Adobe Experience Cloud] 단종 제품 목록'
 source-git-commit: fdd480beaeab4282f6c65510ff54c953ee9cadd5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
 ht-degree: 100%
 
