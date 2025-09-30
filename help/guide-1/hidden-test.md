@@ -4,16 +4,16 @@ description: 숨겨진 테스트입니다.
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 32514db7ecdf26a4aea9270b776b3c6e2fe0e354
+source-git-commit: f8aff1ee59ba9b56ba1c67edd26c9d559b0d5b5c
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 38%
+source-wordcount: '41'
+ht-degree: 36%
 
 ---
 
 # 숨겨진 테스트
 
-숨겨진 테스트입니다.  나타나지 않아야 합니다.
+숨겨진 테스트입니다.  검색에 표시되지 않아야 합니다.
 
 
 ## 가리킨 텍스트 테스트
