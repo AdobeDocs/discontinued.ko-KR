@@ -4,10 +4,10 @@ description: 숨겨진 테스트입니다.
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 5c9e5ae15154f9ed1bdcd398c3e6866eee13c029
+source-git-commit: 6d5ca49ae613ba51468a4e1a7766dc92992ead08
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 54%
+source-wordcount: '35'
+ht-degree: 57%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 54%
 
 ## 가리킨 텍스트 테스트
 
-아니요, 가리킨 텍스트 없음
+가리킨 텍스트 없음
 
 ```
 ![alt text](assets/maui-flip.jpg)
@@ -27,7 +27,7 @@ ht-degree: 54%
 ![대체 텍스트](assets/maui-flip.jpg)
 
 
-예, 예 가리키기 텍스트
+예 가리키기 텍스트
 
 ```
 ![alt text](assets/maui-flip.jpg "Hover text")
