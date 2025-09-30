@@ -2,9 +2,9 @@
 user-guide-title: ' [!DNL Adobe Experience Cloud] 단종 제품'
 breadcrumb-title: 단종 제품
 user-guide-description: ' [!DNL Adobe Experience Cloud] 단종 제품 목록'
-source-git-commit: fdd480beaeab4282f6c65510ff54c953ee9cadd5
-workflow-type: ht
-source-wordcount: '48'
+source-git-commit: 5c9e5ae15154f9ed1bdcd398c3e6866eee13c029
+workflow-type: tm+mt
+source-wordcount: '43'
 ht-degree: 100%
 
 ---
@@ -26,5 +26,3 @@ ht-degree: 100%
 + [소셜](social.md)
 + [Adobe Commerce용 스토어 이행](commerce-store-fulfillment.md)
 + [숨겨진 테스트](hidden-test.md)
-+ [숨겨진 테스트 1.1](hidden-test-1-1.md)
-+ [숨겨진 문제 해결](hidden-troubleshooting.md)
