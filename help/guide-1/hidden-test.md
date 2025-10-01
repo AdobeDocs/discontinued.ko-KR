@@ -4,10 +4,10 @@ description: 숨겨진 테스트입니다.
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: fdcc74a0636e2de1f3e2fd751a09f8d19f9994b9
+source-git-commit: f44cf6b15dd54f8a9671957d4fc11594bdd75987
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 30%
+source-wordcount: '58'
+ht-degree: 25%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 30%
 
 숨겨진 테스트입니다.  검색에 표시되지 않아야 합니다.
 
-Bob은 스프린트 데모를 위해 여기에 있었습니다.
+Bob은 스프린트 데모를 위해 이곳에 있었고, Lakshay가 스테이지를 프로덕션으로 옮긴 후 다시...
 
 아제이는 여기 있었어요
 
