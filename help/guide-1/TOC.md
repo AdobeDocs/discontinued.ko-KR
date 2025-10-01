@@ -2,10 +2,10 @@
 user-guide-title: ' [!DNL Adobe Experience Cloud] 단종 제품'
 breadcrumb-title: 단종 제품
 user-guide-description: ' [!DNL Adobe Experience Cloud] 단종 제품 목록'
-source-git-commit: b0413181849b60169cac898c955d9e6f97f973dd
+source-git-commit: 9263001ad078412e2560137c989e5cc19b6e466a
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 79%
+source-wordcount: '51'
+ht-degree: 84%
 
 ---
 
@@ -29,4 +29,3 @@ ht-degree: 79%
 + 숨겨진 섹션 {#hidden-section}
    + [숨겨진 파일 1](hidden-section-1.md)
    + [숨겨진 파일 2](hidden-section-2.md)
-   + [숨겨진 파일 3](hidden-section-3.md)
