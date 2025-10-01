@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ### **_Adobe에 사이트 검색 및 상거래 검색을 위한 대체 옵션이 있습니까?_**
 
-예. 제품 및 상거래를 검색하는 경우 [ [!DNL Adobe Commerce]의 라이브 검색](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=ko)이 Adobe의 검색 애플리케이션으로 사용됩니다.
+예. 제품 및 상거래를 검색하는 경우 [[!DNL Adobe Commerce]의 라이브 검색](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=ko)이 Adobe의 검색 애플리케이션으로 사용됩니다.
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
