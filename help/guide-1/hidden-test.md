@@ -6,7 +6,7 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 70caa41f852752f2dd5d55b9070bdd2459cecc77
+source-git-commit: 2a8496ce4d4e1de2130cb291f54a364e65efdf61
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 26%
@@ -19,7 +19,7 @@ ht-degree: 26%
 
 Bob은 스프린트 데모를 위해 이곳에 있었고, Lakshay가 스테이지를 프로덕션으로 옮긴 후 다시...
 
-10월 6일
+10월 15일
 
 ## 가리킨 텍스트 테스트
 
