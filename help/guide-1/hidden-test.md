@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 89046c442b4cc4af0b8d205e2aea0554db75720d
+source-git-commit: 8b8ef3148821e9e31eed78376597e30387663134
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '65'
 ht-degree: 18%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 18%
 
 Bob은 스프린트 데모를 위해 이곳에 있었고, Lakshay가 스테이지를 프로덕션으로 옮긴 후 다시...
 
-10월 22일
+2025년 10월 22일
 
 ## 가리킨 텍스트 테스트 {#this-is-a-heading-anchor}
 
