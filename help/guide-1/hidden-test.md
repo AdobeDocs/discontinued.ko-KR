@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: cbb5014b55d1e2af43f7c729b4714499c953b154
+source-git-commit: 1db1adaee009bf29b847f7d7b7c7e6f8e906cbf2
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '72'
 ht-degree: 16%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 16%
 
 Bob은 스프린트 데모를 위해 이곳에 있었고, Lakshay가 스테이지를 프로덕션으로 옮긴 후 다시...
 
-10월 22일, Bob과 Sarika가 나왔습니다
+10월 22일, 밥과 사리카가 다시 왔어요!
 
 ## 가리킨 텍스트 테스트 {#this-is-a-heading-anchor}
 
