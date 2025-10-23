@@ -7,18 +7,18 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 0f37cc8cfe6eaacc33ef3ba1af1ed4fc3ef3a607
+source-git-commit: 5eb20f67529727dc9f9d389b64ca042b8e415a9e
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 15%
+source-wordcount: '83'
+ht-degree: 14%
 
 ---
 
 # 숨겨진 테스트
 
-숨겨진 테스트입니다.  검색에 표시되지 않아야 합니다.
+숨겨진 테스트입니다. v2 렌더링에서 제대로 작동하는지 확인하기 위해 이 `[`을(를) 추가합니다.
 
-Bob은 스프린트 데모를 위해 이곳에 있었고, Lakshay가 스테이지를 프로덕션으로 옮긴 후 다시...
+Bob은 스프린트 데모를 위해 이곳에 있었고, Lakshay가 프로덕션으로 무대를 옮긴 후에 다시 한번 왔습니다.
 
 10월 22일, Bob과 Sarika는 계속해서 여기에 있습니다!
 
