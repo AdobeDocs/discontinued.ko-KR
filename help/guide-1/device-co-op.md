@@ -3,8 +3,8 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: '[!DNL Device Co-op] 서비스 종료 FAQ'
 description: Device Co-op 서비스 종료 계획에 대해 자세히 알아보십시오.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: f259a6d2bac47e9cf3a829017642119357208c7c
-workflow-type: ht
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+workflow-type: tm+mt
 source-wordcount: '1053'
 ht-degree: 100%
 
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # [!DNL Device Co-op] 서비스 종료 FAQ
 
-이 문서에서는 [!DNL Adobe Experience Cloud Device Co-op] 서비스 종료(EOL) 계획에 대해 가장 자주 묻는 질문에 대한 답변을 알아봅니다. 이 계획이 시행되면 Adobe는 [Experience Cloud 릴리스 정보](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ko) 및 [우선순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 통해 사전 공지합니다.
+이 문서에서는 [!DNL Adobe Experience Cloud Device Co-op] 서비스 종료(EOL) 계획에 대해 가장 자주 묻는 질문에 대한 답변을 알아봅니다. 이 계획이 시행되면 Adobe는 [Experience Cloud 릴리스 정보](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) 및 [우선순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)를 통해 사전 공지합니다.
 
 [!DNL Device Co-op]는 최고 수준의 개인 정보 보호 및 투명성을 보장하면서 디지털 접점 전반에 걸쳐 소비자를 더 잘 식별하기 위해 참가자가 협력할 수 있는 프로그램이었습니다.
 
@@ -57,7 +57,7 @@ ht-degree: 100%
 
 ### [!DNL Analytics]
 
-[!DNL Analytics] [크로스 디바이스 분석(CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html?lang=ko) 기능은 Adobe Experience Platform ID 서비스 [비공개 그래프](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=ko)와 [필드 기반 결합](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=ko)을 모두 지원하므로 사용할 수 있습니다.
+[!DNL Analytics] [크로스 디바이스 분석(CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html) 기능은 Adobe Experience Platform ID 서비스 [비공개 그래프](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=ko)와 [필드 기반 결합](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=ko)을 모두 지원하므로 사용할 수 있습니다.
 
 ### [!DNL Audience Manager]
 
@@ -81,9 +81,9 @@ ht-degree: 100%
 
 ## 쿠키 없는 미래를 준비하는 데 도움이 될 수 있는 기존 기능과 구현은 무엇입니까?
 
-기존의 방문자 ID 서비스 구현이 Analytics [CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html?lang=ko)를 강화합니다. 기존의 선언된 ID가 해시된 이메일인 경우 이를 사용하여 다음 기능을 강화할 수 있습니다.
+기존의 방문자 ID 서비스 구현이 Analytics [CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html)를 강화합니다. 기존의 선언된 ID가 해시된 이메일인 경우 이를 사용하여 다음 기능을 강화할 수 있습니다.
 
-- [!DNL Audience Manager] [사람 기반 대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=ko).
+- [!DNL Audience Manager] [사람 기반 대상](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 - [Experience Platform 세그먼트 매치 (Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=ko).
 
 ## [!DNL Device Co-op]에 내 데이터가 보관됩니까?
@@ -105,4 +105,3 @@ ht-degree: 100%
 ## [!UICONTROL 사용자] 지표는 어떻게 됩니까?
 
 [!DNL Device Co-op] 서비스 중단으로 인해 [!UICONTROL 사용자] 지표는 더 이상 관련이 없습니다. 2023년 5월 8일부로 [!UICONTROL 사용자] 지표가 제거될 예정입니다. 프로젝트, 세그먼트 및 계산된 지표가 손상되지 않도록 해당 시점에 관련 데이터는 [!UICONTROL 고유 방문자] 지표로 리디렉션될 예정입니다.
-

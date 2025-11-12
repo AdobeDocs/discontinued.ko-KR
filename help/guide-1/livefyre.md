@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Livefyre] 서비스 종료'
 description: Livefyre 및 Livefyre Studio에 대한 Livefyre 서비스 종료 알림.
 exl-id: 696f6363-7b17-4a05-bde7-e43141ea84de
-source-git-commit: b4cb8ec97301294acfb8e4d03dcf75441c175d2b
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 93%
@@ -30,3 +30,4 @@ ht-degree: 93%
 ### **_자세한 내용은 누구에게 문의할 수 있습니까?_**
 
 질문이 있는 경우 CSM(고객 성공 관리자) 또는 Shelly Chiang(`schiang@adobe.com`)에게 문의하십시오.
+
