@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: d133a7318cfe4c77186b2de46fded4009b9b41e8
+source-git-commit: dde6a1c269865b6baec6e073a25a3dbd817d3d07
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 4%
+source-wordcount: '100'
+ht-degree: 14%
 
 ---
 
@@ -20,28 +20,19 @@ ht-degree: 4%
 
 2025년 11월 12일
 
-## 잘못된 테이블
+## 비디오 테스트
 
-**원본**
+### 트랜스크립트 없음 일반 비디오 - metadata.md trickle down으로 인해 트랜스크립트를 표시해야 함
 
-| 작업 | 설명 |
-| -----------| ---------- |
-| [Analytics용 Experience Cloud ID 서비스 구현](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=ko) | 또한 Adobe에서는 추가 [고객 ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=ko)을(를) 설정하는 것이 좋습니다. 이러한 ID는 각 방문자와 연결되며 Experience Cloud의 현재 및 향후 기능을 활성화합니다. |
-| 기존 `s_code`을(를) 버전 H.27.3 이상으로 업데이트하거나 기존 `AppMeasurement.js`을(를) 버전 1.4 이상으로 업데이트합니다. | 이러한 파일은 Analytics 관리 도구의 [코드 관리자](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=ko)에서 다운로드할 수 있습니다. [에 대한 자세한 정보가 필요한 경우 &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=ko#js)JavaScript 구현`AppMeasurement.js` 가이드를 사용할 수 있습니다. |
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
-**추가 공백 두 개**
+### 대본이 true로 설정된 경우
 
-| 작업 | 설명 |
-| -----------| ---------- |
-| [Analytics용 Experience Cloud ID 서비스 구현](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=ko) | 또한 Adobe에서는 추가 [고객 ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=ko)을(를) 설정하는 것이 좋습니다. 이러한 ID는 각 방문자와 연결되며 Experience Cloud의 현재 및 향후 기능을 활성화합니다. |
-| 기존 `s_code`을(를) 버전 H.27.3 이상으로 업데이트하거나 기존 `AppMeasurement.js`을(를) 버전 1.4 이상으로 업데이트합니다. | 이러한 파일은 Analytics 관리 도구의 [코드 관리자](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=ko)에서 다운로드할 수 있습니다. [에 대한 자세한 정보가 필요한 경우 &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=ko#js)JavaScript 구현`AppMeasurement.js` 가이드를 사용할 수 있습니다. |
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
-**추가 공백은 있지만 헤더 분할자 이후는 아님**
+### 대본이 false로 설정된 경우 - 비디오 대본이 표시되지 않아야 합니다.
 
-| 작업 | 설명 |
-| -----------| ---------- |
-| [Analytics용 Experience Cloud ID 서비스 구현](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=ko) | 또한 Adobe에서는 추가 [고객 ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=ko)을(를) 설정하는 것이 좋습니다. 이러한 ID는 각 방문자와 연결되며 Experience Cloud의 현재 및 향후 기능을 활성화합니다. |
-| 기존 `s_code`을(를) 버전 H.27.3 이상으로 업데이트하거나 기존 `AppMeasurement.js`을(를) 버전 1.4 이상으로 업데이트합니다. | 이러한 파일은 Analytics 관리 도구의 [코드 관리자](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=ko)에서 다운로드할 수 있습니다. [에 대한 자세한 정보가 필요한 경우 &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=ko#js)JavaScript 구현`AppMeasurement.js` 가이드를 사용할 수 있습니다. |
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## 상대 링크
 
