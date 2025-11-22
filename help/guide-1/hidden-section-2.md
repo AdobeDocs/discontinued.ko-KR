@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 landing-page-breadcrumb-title: Test Analytics
 landing-page-name: analytics
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: a7d0ed1174fb31600f25636f6036b45faa2ed8d8
 workflow-type: tm+mt
-source-wordcount: '17'
-ht-degree: 17%
+source-wordcount: '21'
+ht-degree: 14%
 
 ---
 
@@ -16,3 +16,10 @@ ht-degree: 17%
 
 숨겨진 테스트 2
 
+## 성적 증명서 없음
+
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+
+## 대본 true
+
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
