@@ -4,7 +4,7 @@ description: 숨겨진 테스트 1
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: 7f152c467b1805a0f5b47f4dd29b00ee3130d8ef
+source-git-commit: 9150b1804e1832d0f08320739c9dc4919ffea6a3
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 4%
@@ -14,7 +14,7 @@ ht-degree: 4%
 # 숨겨진 섹션 테스트 1
 
 
-2025년 11월 18일
+2025년 11월 24일
 
 1. 여기로 이동
 
@@ -52,8 +52,8 @@ After creating a search using "id > contains," for example, you can then click [
 
 ## 성적 증명서 없음
 
->[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## 대본 true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
