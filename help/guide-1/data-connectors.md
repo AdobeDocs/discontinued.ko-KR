@@ -2,16 +2,16 @@
 description: Adobe Analytics Data Connectors 통합 기능 서비스 중단에 대해 알아봅니다.
 title: Analytics Data Connectors 통합 기능 서비스 종료
 exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 37c91c7a347feb988d535eec0dfc2ec6ba94ddd3
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
 # Adobe Data Connectors 통합 기능 서비스 종료
 
-**2021년 8월 19일부터** Adobe는 Data Connectors 통합 기능에 대한 서비스를 중단했으며 이를 [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product)로 대체했습니다. Adobe는 고객과 파트너를 위해 최대한 원활한 전환을 추구합니다.
+**2021년 8월 19일부터** Adobe는 Data Connectors 통합 기능에 대한 서비스를 중단했으며 이를 [Adobe Exchange Marketplace](https://exchange.adobe.com/apps/browse/ec?listingType=applications&page=1&partnerLevel=All&product=ANLYTC&sort=RELEVANCE)로 대체했습니다. Adobe는 고객과 파트너를 위해 최대한 원활한 전환을 추구합니다.
 
 Adobe Analytics는 고객의 요구 사항을 충족하기 위해 동급 최고 수준의 웹 및 마케팅 분석 기능을 제공하는 것을 목표로 합니다. 기술 및 비즈니스 요구 사항이 발전함에 따라 Adobe는 지속적으로 최고 표준을 충족하기 위해 노력하고 있습니다. Data Connectors 통합 기능을 제공하는 API는 이러한 표준을 더 이상 충족하지 않으며 Adobe의 최신 기술 인프라에서 지원되지 않습니다.
 
@@ -19,7 +19,7 @@ Adobe Analytics는 고객의 요구 사항을 충족하기 위해 동급 최고 
 
 ## Adobe가 이 기능을 종료하는 이유는 무엇입니까?
 
-이 기능은 더 이상 실행 불가능하거나 지원되지 않는 레거시 기술을 기반으로 합니다. 이제 [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product)에서 Adobe 솔루션의 현재 통합 기능을 찾을 수 있습니다.
+이 기능은 더 이상 실행 불가능하거나 지원되지 않는 레거시 기술을 기반으로 합니다. 이제 [Adobe Exchange Marketplace](https://exchange.adobe.com/apps/browse/ec?listingType=applications&page=1&partnerLevel=All&product=ANLYTC&sort=RELEVANCE)에서 Adobe 솔루션의 현재 통합 기능을 찾을 수 있습니다.
 
 ## 이 기능을 제거하면 어떤 영향이 있습니까?
 
