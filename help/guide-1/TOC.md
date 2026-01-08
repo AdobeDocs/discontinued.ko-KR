@@ -1,11 +1,11 @@
 ---
-user-guide-title: ' [!DNL Adobe Experience Cloud] 단종 제품'
+user-guide-title: Adobe Experience Cloud용 단종된 제품
 breadcrumb-title: 단종 제품
 user-guide-description: ' [!DNL Adobe Experience Cloud]에 대한 중단된 제품 목록'
-source-git-commit: 7a3e461e6d19eefbfd54a7f5f5d51e82fb3739fe
+source-git-commit: da88987d86343e1285387bce1d323ea0a49bd66f
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 78%
+source-wordcount: '49'
+ht-degree: 67%
 
 ---
 
