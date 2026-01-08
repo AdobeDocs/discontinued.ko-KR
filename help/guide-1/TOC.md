@@ -2,10 +2,10 @@
 user-guide-title: ' [!DNL Adobe Experience Cloud] 단종 제품'
 breadcrumb-title: 단종 제품
 user-guide-description: ' [!DNL Adobe Experience Cloud]에 대한 중단된 제품 목록'
-source-git-commit: aea0c9a349edb53c36f4b878d9e41447ca118242
+source-git-commit: 432b1722d3a7ddb7686515f65605ad7ca3522f7e
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 81%
+source-wordcount: '46'
+ht-degree: 78%
 
 ---
 
@@ -17,6 +17,7 @@ ht-degree: 81%
 + [Data Connectors](data-connectors.md)
 + [Data Workbench](data-workbench.md)
 + [Device Co-op](device-co-op.md)
++ [장치 그래프](device-graph.md)
 + [Experience Cloud 라이브러리](experience-cloud-library.md)
 + [Experience Platform Auditor](auditor.md)
 + [Livefyre](livefyre.md)

@@ -2,7 +2,7 @@
 title: ' [!DNL Adobe Experience Cloud] 단종 제품 개요'
 description: ' [!DNL Adobe Experience Cloud] 및 [!DNL Adobe Experience Platform] 단종, 중단 또는 서비스 종료 제품'
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: c7264d94e52fb3efad7d59edd1b73f805a9a00f6
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -19,6 +19,7 @@ Adobe는 시장 상황 및 고객에 대한 영향의 변화로 제품 또는 �
 * [[!DNL Data Connectors]](data-connectors.md)
 * [[!DNL Data Workbench]](data-workbench.md)
 * [[!DNL Device Co-op]](device-co-op.md)
+* [[!DNL Device graph]](device-graph.md)
 * [[!DNL Experience Cloud Library]](experience-cloud-library.md)
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
