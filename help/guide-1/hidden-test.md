@@ -7,16 +7,16 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: aea0c9a349edb53c36f4b878d9e41447ca118242
+source-git-commit: b22201b34762b11d4a8cdd4b80e9be2b950d311f
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
 # 숨겨진 테스트
 
-12월 2일
+1월 8일
 
 숨겨진 테스트입니다. v2 렌더링에서 제대로 작동하는지 확인하기 위해 이 `[`을(를) 추가합니다.
 
