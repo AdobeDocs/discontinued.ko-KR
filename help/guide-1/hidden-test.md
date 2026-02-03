@@ -8,16 +8,17 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
+source-git-commit: f38dd5701562d9e51256c50f766c7b03f253f279
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 9%
+source-wordcount: '224'
+ht-degree: 8%
 
 ---
 
 # 숨겨진 테스트
 
 2026년 2월 2일 - `hold: true`이(가) 켜졌습니다. 오, 너무 좋아!
+2026년 2월 3일 - 매트
 
 숨겨진 테스트입니다. v2 렌더링에서 제대로 작동하는지 확인하기 위해 이 `[`을(를) 추가합니다.
 
