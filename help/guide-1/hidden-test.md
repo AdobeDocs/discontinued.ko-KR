@@ -6,39 +6,40 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
+hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f6e3d17e221850a71617abfb9f5e75c0e26b362f
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '220'
 ht-degree: 9%
 
 ---
 
 # 숨겨진 테스트
 
-1월 26일 - Bob
+2026년 2월 2일 - `hold: true`이(가) 켜졌습니다. 오, 너무 좋아!
 
 숨겨진 테스트입니다. v2 렌더링에서 제대로 작동하는지 확인하기 위해 이 `[`을(를) 추가합니다.
 
 ## 새 탭에서 열기 {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [동일한 탭에서 열기](auditor.md)
 
-[따옴표가 있는 공백이 있는 새 탭](auditor.md){target="_blank"} 
+[따옴표가 있는 공백이 있는 새 탭](auditor.md) {target="_blank"}
 
-[앵커가 있는 새 탭](auditor.md){target=_blank}
+[앵커가 있는 새 탭](auditor.md){target=&quot;_blank}
 
 [따옴표가 있는 공백이 없는 새 탭](auditor.md){target="_blank"}
 
-[따옴표가 없는 공백이 있는 새 탭](auditor.md){target=_blank} 
+[따옴표가 없는 공백이 있는 새 탭](auditor.md) {target=_blank}
 
 [따옴표 없는 새 탭](auditor.md){target=_blank}
 
 [딥링크가 있는 새 탭](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[딥링크로 새 탭 연결](https://experienceleague.adobe.com/ko/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[딥링크로 새 탭 연결](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [외부 링크가 있는 새 탭](https://www.adobe.com){target="_blank"}
 
@@ -93,15 +94,15 @@ After creating a search using "id > contains," for example, you can then click [
 
 ### 트랜스크립트 없음 일반 비디오 - metadata.md trickle down으로 인해 트랜스크립트를 표시해야 함
 
->[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### 대본이 true로 설정된 경우
 
->[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### 대본이 false로 설정된 경우 - 비디오 대본이 표시되지 않아야 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## 상대 링크
 
@@ -150,4 +151,3 @@ https://experienceleague-stage.adobe.com/en/slides/analyze-project
 -->
 
 Bob: 주제 위치 항목을 테스트하면 슬라이드 주석을 제거합니다.
-

@@ -2,10 +2,10 @@
 user-guide-title: Adobe Experience Cloud용 단종된 제품
 breadcrumb-title: 단종 제품
 user-guide-description: ' [!DNL Adobe Experience Cloud]에 대한 중단된 제품 목록'
-source-git-commit: da88987d86343e1285387bce1d323ea0a49bd66f
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 67%
+source-wordcount: '52'
+ht-degree: 63%
 
 ---
 
@@ -26,4 +26,5 @@ ht-degree: 67%
 + [Search&amp;Promote](/help/guide-1/search-promote.md)
 + [소셜](/help/guide-1/social.md)
 + [Adobe Commerce용 스토어 이행](/help/guide-1/commerce-store-fulfillment.md)
-+ [숨겨진 테스트 - 1월](/help/guide-1/hidden-test.md)
++ [숨겨진 테스트 - 2월](/help/guide-1/hidden-test.md)
++ [숨겨진 테스트 - 새로운 기능](hidden-section-1.md)
