@@ -6,17 +6,18 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
+hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f6e3d17e221850a71617abfb9f5e75c0e26b362f
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '220'
 ht-degree: 9%
 
 ---
 
 # 숨겨진 테스트
 
-1월 26일 - Bob
+2026년 2월 2일 - `hold: true`이(가) 켜졌습니다. 오, 너무 좋아!
 
 숨겨진 테스트입니다. v2 렌더링에서 제대로 작동하는지 확인하기 위해 이 `[`을(를) 추가합니다.
 
@@ -150,4 +151,3 @@ https://experienceleague-stage.adobe.com/en/slides/analyze-project
 -->
 
 Bob: 주제 위치 항목을 테스트하면 슬라이드 주석을 제거합니다.
-

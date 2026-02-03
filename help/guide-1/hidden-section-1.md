@@ -4,16 +4,17 @@ description: 숨겨진 테스트 1
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: bc2e4de9631fd091c6438c59ab51b1dbad607531
+hold: true
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 4%
+source-wordcount: '66'
+ht-degree: 7%
 
 ---
 
 # 숨겨진 섹션 테스트 1
 
-2025년 11월 24일
+2026년 2월 3일
 
 1. 여기로 이동
 
