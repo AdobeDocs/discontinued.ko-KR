@@ -5,7 +5,7 @@ auto-video-transcripts: false
 hide: true
 hidefromtoc: true
 hold: true
-source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
+source-git-commit: d0d9f9e59e9186c39307a3e2a6695de89aadab05
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 7%
@@ -14,7 +14,7 @@ ht-degree: 7%
 
 # 숨겨진 섹션 테스트 1
 
-2026년 2월 3일
+2026년 2월 4일
 
 1. 여기로 이동
 
