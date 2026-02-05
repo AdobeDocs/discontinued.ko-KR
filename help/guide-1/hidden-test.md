@@ -40,7 +40,7 @@ ht-degree: 9%
 
 [딥링크가 있는 새 탭](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[딥링크로 새 탭 연결](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[딥링크로 새 탭 연결](https://experienceleague.adobe.com/ko/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [외부 링크가 있는 새 탭](https://www.adobe.com){target="_blank"}
 
