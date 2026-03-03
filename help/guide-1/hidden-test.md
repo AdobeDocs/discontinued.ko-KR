@@ -8,16 +8,17 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f3cf599787da4d3d1b9b77bd6207fea46c732dd7
+source-git-commit: dd84fbbd17de8795e1ef6f8c9bc3bd35d9b0847e
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '238'
 ht-degree: 8%
 
 ---
 
 # 숨겨진 테스트
 
-2026년 2월 4일 - `hold: true`이(가) 켜졌습니다.
+2026년 3월 4일 - `hold: true`이(가) 켜졌습니다.
+
 새 키 테스트
 
 2월 11일: 테스트 보류.
@@ -34,11 +35,11 @@ ht-degree: 8%
 
 [앵커가 있는 새 탭](auditor.md){target=_blank}
 
-[따옴표가 있는 공백이 없는 새 탭](auditor.md){target="_blank"}
+[따옴표가 있는 공백 없는 새 탭](auditor.md){target="_blank"}
 
 [따옴표가 없는 공백이 있는 새 탭](auditor.md){target=_blank} 
 
-[따옴표 없는 새 탭](auditor.md){target=_blank}
+[따옴표 없이 공백 없는 새 탭](auditor.md){target=_blank}
 
 [딥링크가 있는 새 탭](commerce-channels.md#channel-manager-extension){target="_blank"}
 
