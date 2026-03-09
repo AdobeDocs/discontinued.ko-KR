@@ -27,17 +27,17 @@ ht-degree: 8%
 
 ## 새 탭에서 열기 {#section_92882928}
 
-`[See What's new](auditor.md) {target="_blank"}`
+`[See What's new](auditor.md){target="_blank"} `
 
 [동일한 탭에서 열기](auditor.md)
 
-[따옴표가 있는 공백이 있는 새 탭](auditor.md) {target="_blank"}
+[따옴표가 있는 공백이 있는 새 탭](auditor.md){target="_blank"} 
 
-[앵커가 있는 새 탭](auditor.md){target=&quot;_blank}
+[앵커가 있는 새 탭](auditor.md){target=_blank}
 
 [따옴표가 있는 공백 없는 새 탭](auditor.md){target="_blank"}
 
-[따옴표가 없는 공백이 있는 새 탭](auditor.md) {target=_blank}
+[따옴표가 없는 공백이 있는 새 탭](auditor.md){target=_blank} 
 
 [따옴표 없이 공백 없는 새 탭](auditor.md){target=_blank}
 
