@@ -2,9 +2,9 @@
 title: ' [!DNL Adobe Experience Cloud] 단종 제품 개요'
 description: ' [!DNL Adobe Experience Cloud] 및 [!DNL Adobe Experience Platform] 단종, 중단 또는 서비스 종료 제품'
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: d6a0342750804a56c686c966801c411090b9672a
+source-git-commit: 35b52c4a479357f2cae2fdd218c6860653803b8f
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '143'
 ht-degree: 100%
 
 ---
@@ -39,11 +39,11 @@ Adobe는 시장 상황 및 고객에 대한 영향의 변화로 제품 또는 �
 ## 새롭게 브랜딩된 제품 목록
 
 * *[!DNL Adobe Acrobat DC]*&#x200B;는 이제 *[!DNL Adobe Acrobat]* 입니다.
-* *[!DNL Adobe Sign]*&#x200B;은 이제 *[!DNL Acrobat Sign]*&#x200B;입니다.
-* *[!DNL Magento]*&#x200B;는 이제 *[!DNL Adobe Commerce]*&#x200B;입니다.
+* *[!DNL Adobe Sign]*&#x200B;는 이제 *[!DNL Acrobat Sign]* 입니다.
+* *[!DNL Magento]*&#x200B;은 이제 *[!DNL Adobe Commerce]*&#x200B;입니다.
 * *[!DNL Launch]*/*[!DNL Experience Platform Launch]*&#x200B;는 이제 [!DNL Adobe Data Collection]에서 *태그*&#x200B;라고 합니다. [태그 개요](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=ko)를 참조하십시오.
-* *[!DNL XML Documentation for Adobe Experience Manager]*&#x200B;는 이제 *[!DNL Adobe Experience Manager Guides]*&#x200B;입니다.
-* *[!DNL Captivate Prime]*&#x200B;은 이제 *[!DNL Adobe Learning Manager]*&#x200B;입니다.
+* *[!DNL XML Documentation for Adobe Experience Manager]*&#x200B;는 이제 *[!DNL Adobe Experience Manager Guides]* 입니다.
+* *[!DNL Captivate Prime]*&#x200B;는 이제 *[!DNL Adobe Learning Manager]* 입니다.
 * *[!DNL Bizible]*&#x200B;은 이제 *[!DNL Marketo Measure]*&#x200B;입니다.
 
 ## 추가 단종 제품 {#additional-products}
@@ -54,3 +54,4 @@ Adobe는 시장 상황 및 고객에 대한 영향의 변화로 제품 또는 �
 >[!MORELIKETHIS]
 >
 >Adobe 추가 단종 앱 및 서비스 목록은 [무료 및 단종 제품 | 지원 옵션](https://helpx.adobe.com/kr/support/programs/support-options-free-discontinued-apps-services.html)에서 확인하십시오.
+
