@@ -8,42 +8,40 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: dd84fbbd17de8795e1ef6f8c9bc3bd35d9b0847e
+source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '234'
 ht-degree: 8%
 
 ---
 
 # 숨겨진 테스트
 
-2026년 3월 4일 - `hold: true`이(가) 켜졌습니다.
+2026년 3월 10일 - `hold: true` 켜짐.
 
 새 키 테스트
-
-2월 11일: 테스트 보류.
 
 숨겨진 테스트입니다. v2 렌더링에서 제대로 작동하는지 확인하기 위해 이 `[`을(를) 추가합니다.
 
 ## 새 탭에서 열기 {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [동일한 탭에서 열기](auditor.md)
 
-[따옴표가 있는 공백이 있는 새 탭](auditor.md){target="_blank"} 
+[따옴표가 있는 공백이 있는 새 탭](auditor.md) {target="_blank"}
 
-[앵커가 있는 새 탭](auditor.md){target=_blank}
+[앵커가 있는 새 탭](auditor.md){target=&quot;_blank}
 
 [따옴표가 있는 공백 없는 새 탭](auditor.md){target="_blank"}
 
-[따옴표가 없는 공백이 있는 새 탭](auditor.md){target=_blank} 
+[따옴표가 없는 공백이 있는 새 탭](auditor.md) {target=_blank}
 
 [따옴표 없이 공백 없는 새 탭](auditor.md){target=_blank}
 
 [딥링크가 있는 새 탭](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[딥링크로 새 탭 연결](https://experienceleague.adobe.com/ko/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[딥링크로 새 탭 연결](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [외부 링크가 있는 새 탭](https://www.adobe.com){target="_blank"}
 
@@ -98,15 +96,15 @@ After creating a search using "id > contains," for example, you can then click [
 
 ### 트랜스크립트 없음 일반 비디오 - metadata.md trickle down으로 인해 트랜스크립트를 표시해야 함
 
->[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### 대본이 true로 설정된 경우
 
->[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### 대본이 false로 설정된 경우 - 비디오 대본이 표시되지 않아야 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## 상대 링크
 
