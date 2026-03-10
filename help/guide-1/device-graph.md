@@ -2,10 +2,11 @@
 keywords: Device-graph;수명 종료
 title: 장치 그래프
 description: Device Graph의 서비스 종료 계획에 대해 알아봅니다.
-source-git-commit: 8eb82ca4e8e4585ddc2edbba0de486c700a465bc
+hold: true
+source-git-commit: 0ebe153e886f375683ff3fc3a06514617988894b
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 0%
+source-wordcount: '335'
+ht-degree: 2%
 
 ---
 
