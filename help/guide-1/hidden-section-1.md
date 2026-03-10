@@ -3,16 +3,16 @@ title: 숨겨진 섹션 1 테스트
 description: 숨겨진 테스트 1
 auto-video-transcripts: false
 hide: true
-source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
+source-git-commit: 27c6d4270e5a27cc4a95e28625c3f20997f87646
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '71'
 ht-degree: 7%
 
 ---
 
 # 숨겨진 섹션 테스트 1
 
-2026년 3월 10일 - 이 문서에 대한 `hold: true` 없음
+2026년 3월 10일, 9:25 - 이 문서에 대한 `hold: true` 없음
 
 1. 여기로 이동
 
@@ -50,8 +50,8 @@ After creating a search using "id > contains," for example, you can then click [
 
 ## 성적 증명서 없음
 
->[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## 대본 true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
