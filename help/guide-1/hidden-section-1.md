@@ -54,8 +54,8 @@ After creating a search using "id > contains," for example, you can then click [
 
 ## 성적 증명서 없음
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true)
 
 ## 대본 true
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true){transcript=true}
