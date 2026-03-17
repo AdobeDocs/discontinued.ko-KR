@@ -27,5 +27,5 @@ ht-degree: 64%
 + [소셜](/help/guide-1/social.md)
 + [Adobe Commerce용 스토어 이행](/help/guide-1/commerce-store-fulfillment.md)
 + {hide-from-toc}[숨겨진 테스트 - 2월](/help/guide-1/hidden-test.md)
-+ {hide-from-toc}[숨겨진 테스트 - 새로운 ](hidden-section-1.md)
++ {hide-from-toc}[숨겨진 테스트 - 새로운 &#x200B;](hidden-section-1.md)
 
