@@ -3,7 +3,8 @@ title: 숨겨진 섹션 1 테스트
 description: 숨겨진 테스트 1
 auto-video-transcripts: false
 hide: true
-source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
+index: false
+source-git-commit: 0d0c957441babe95bad242da4b1249f8019615d1
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 6%
@@ -67,8 +68,8 @@ After creating a search using "id > contains," for example, you can then click [
 
 ## 성적 증명서 없음
 
->[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## 대본 true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
