@@ -2,21 +2,20 @@
 title: 숨겨진 테스트
 description: 숨겨진 테스트입니다.
 hide: true
-hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 7f84f2196a1a3a477c05f803eff3cc8eae6b0678
+source-git-commit: 0d0c957441babe95bad242da4b1249f8019615d1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 8%
 
 ---
 
 # 숨겨진 테스트
 
-2026년 3월 10일, 9:25 - `hold: true`이(가) 해제되었습니다.
+2026년 3월 17일 - `hold: true`이(가) 꺼져 있습니다.
 
 새 키 테스트
 
