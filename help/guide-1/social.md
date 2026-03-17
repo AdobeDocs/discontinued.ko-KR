@@ -1,8 +1,9 @@
 ---
 title: '[!DNL Adobe Social] 제품 설명서'
 description: '[!DNL Adobe Social] 사용 안내서 리소스'
+hold: true
 exl-id: 48527ae3-bc6a-4f30-9309-701bb2be0650
-source-git-commit: c0042ee5e665e06c3166ce3e01cfe578ebf4ea77
+source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 70%

@@ -3,16 +3,29 @@ title: 숨겨진 섹션 1 테스트
 description: 숨겨진 테스트 1
 auto-video-transcripts: false
 hide: true
-source-git-commit: d53fd34daae5dd4141563732cf0458f0e2f2af91
+source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 7%
+source-wordcount: '74'
+ht-degree: 6%
 
 ---
 
 # 숨겨진 섹션 테스트 1
 
-2026년 3월 10일, 9:25 - 이 문서에 대한 `hold: true` 없음
+2026년 3월 16일 - 이 문서에 대한 `hold: true` 없음
+
+## Target div
+
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+
+## 추가 테스트
 
 1. 여기로 이동
 
