@@ -29,7 +29,7 @@ Adobe가 모바일 마케팅 기능을 계속 확장함에 따라 이전에 Mobi
 
 ## Mobile Services에서 생성된 기존 처리 규칙에 나타나는 결과
 
-Mobile Services UI에서 생성된 [처리 규칙](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html)은 Mobile Services 서비스 종료일 이전에 Adobe Analytics로 자동 마이그레이션됩니다. 마이그레이션된 Adobe Analytics의 다른 처리 규칙과 유사하게 작동하며 이러한 처리 규칙을 자유롭게 보거나 편집할 수 있습니다. 이 마이그레이션에는 사용자 작업이 필요하지 않습니다.
+Mobile Services UI에서 생성된 [처리 규칙](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=ko)은 Mobile Services 서비스 종료일 이전에 Adobe Analytics로 자동 마이그레이션됩니다. 마이그레이션된 Adobe Analytics의 다른 처리 규칙과 유사하게 작동하며 이러한 처리 규칙을 자유롭게 보거나 편집할 수 있습니다. 이 마이그레이션에는 사용자 작업이 필요하지 않습니다.
 
 모바일 서비스가 종료된 후 모든 처리 규칙 논리는 일반적으로 [컨텍스트 데이터 변수](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/contextdata.html?lang=ko-KR) 사용을 포함하여 Adobe Analytics 내에서 독점적으로 처리됩니다.
 
