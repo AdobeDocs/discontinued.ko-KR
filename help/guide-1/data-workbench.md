@@ -2,9 +2,9 @@
 title: '[!DNL Data Workbench] 서비스 종료'
 description: 이 문서에서는 [!DNL Data Workbench] 서비스 종료와 관련된 FAQ를 다룹니다.
 exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '431'
 ht-degree: 99%
 
 ---
@@ -42,4 +42,3 @@ Adobe는 현재 Data Workbench와 유사한 요구 사항을 충족하는 다음
 ## 자세한 내용은 어디에서 확인할 수 있습니까?
 
 이 [서비스 종료 공지](https://express.adobe.com/page/GSu6oKOD88GAj/)에 대한 세부 사항이나 질문은 귀사의 Adobe 계정 관리자에게 문의하십시오.
-
