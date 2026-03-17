@@ -2,9 +2,9 @@
 title: Adobe Mobile Services 서비스 종료 FAQ
 description: Adobe Mobile Services의 서비스 종료 발표와 관련하여 자주 묻는 질문에 대한 답변을 얻으십시오.
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
-source-git-commit: 37c91c7a347feb988d535eec0dfc2ec6ba94ddd3
+source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '450'
 ht-degree: 97%
 
 ---
@@ -44,4 +44,3 @@ Adobe는 조직의 사용 사례에 따라 세 가지 전환 경로를 제공합
 ## 질문 접수 창구
 
 자세한 내용은 [Adobe Mobile Services 서비스 종료 Spark 페이지](https://spark.adobe.com/page/C6D30y09zaRpD/)를 참조하십시오. 추가적인 문의 사항이 있으면 Adobe 담당자에게 문의하십시오.
-

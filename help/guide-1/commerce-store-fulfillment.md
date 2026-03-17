@@ -2,8 +2,7 @@
 title: Adobe Commerce용 스토어 이행
 description: Adobe Commerce용 스토어 이행 확장 기능의 지원 종료 시점에 대해 알아봅니다.
 exl-id: 15a36e9c-3480-436b-8315-5fdedcf5b3dd
-hidefromtco: true
-source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
+source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
