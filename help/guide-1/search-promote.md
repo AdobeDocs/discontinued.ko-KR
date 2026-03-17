@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Search&Promote] 서비스 종료 공지'
 description: ' [!DNL Adobe Search&Promote] 서비스 종료 공지에 대해 자세히 알아보십시오.'
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
-source-git-commit: d53fd34daae5dd4141563732cf0458f0e2f2af91
+source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
@@ -36,3 +36,4 @@ Also, both [AWS](https://aws.amazon.com/cloudsearch/) and [Microsoft&reg; Azure]
 ### **_자세한 내용은 누구에게 문의할 수 있습니까?_**
 
 질문이 있는 경우 고객 성공 관리자(CSM)에게 문의하거나 [searchquestions@adobe.com](mailto:searchquestions@adobe.com)을 통해 Adobe 팀에 문의하십시오.
+
