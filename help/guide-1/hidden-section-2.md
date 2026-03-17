@@ -19,8 +19,8 @@ ht-degree: 13%
 
 ## 성적 증명서 없음
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true){transcript=false}
 
 ## 대본 true
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409661?captions=kor&hidetitle=true){transcript=true}
