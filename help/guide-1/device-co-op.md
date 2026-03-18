@@ -3,10 +3,10 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: '[!DNL Device Co-op] 서비스 종료 FAQ'
 description: Device Co-op 서비스 종료 계획에 대해 자세히 알아보십시오.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
 workflow-type: tm+mt
-source-wordcount: '1053'
-ht-degree: 100%
+source-wordcount: '1216'
+ht-degree: 88%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 100%
 
 ## [!DNL Device Co-op] 지원이 중단되는 이유는 무엇입니까?
 
-다가오는 AdTech 환경의 변화로 인해 [!DNL Device Co-op]는 향후 몇 년 내에 사용되지 않을 솔루션이 될 것으로 예상하고 있습니다. [!DNL Device Co-op]는 대부분 서드파티 쿠키로 구성되며, [!DNL Google's]에서 2022년까지 [!DNL Google Chrome]에 대한 서드파티 쿠키를 차단한다고 발표하면 [!DNL Device Co-op]의 효과가 감소합니다. [!DNL Chrome]의 브라우저 시장 점유율의 ~65%를 차지하며 다른 주요 브라우저는 이미 서드파티 쿠키 차단을 구현했습니다. 일단 [!DNL Chrome]에서 서드파티 쿠키를 차단하면 대부분의 서드파티 쿠키가 차단되고 [!DNL Device Co-op]는 더 이상 사용되지 않게 됩니다.
+AdTech 환경의 향후 변경 사항으로 인해 [!DNL Device Co-op]은(는) 향후 더 이상 사용되지 않는 솔루션이 될 것으로 예상됩니다. [!DNL Device Co-op] 은(는) 주로 서드파티 쿠키로 구성되며, [!DNL Google's]이(가) 2022년까지 [!DNL Google Chrome]에 서드파티 쿠키를 차단한다고 발표하면 [!DNL Device Co-op]의 효과가 떨어집니다. [!DNL Chrome] 은 브라우저 시장 점유율의 ~65%를 차지하고 있으며 다른 주요 브라우저는 이미 서드파티 쿠키 차단을 구현했습니다. 일단 [!DNL Chrome]에서 서드파티 쿠키를 차단하면 대부분의 서드파티 쿠키가 차단되고 [!DNL Device Co-op]는 더 이상 사용되지 않게 됩니다.
 
 ## Adobe에서 지금 [!DNL Device Co-op] 가입을 종료하는 이유는 무엇입니까?
 
-서드파티 쿠키에 대한 향후 업계가 변화하게 따라 고객의 기대에 부응하고자 가입을 종료하고 있습니다. [!DNL Device Co-op]는 준비하는 데 몇 달이 걸리고 서비스에서 가치를 추출하는 데 몇 달이 더 걸립니다. 이 시점에서 추가로 가입하면 브랜드들이 [!DNL Device Co-op]의 전체 가치를 경험하지 못할 수 있습니다.
+서드파티 쿠키를 둘러싼 업계 변화로 인해 고객 기대치를 충족하지 못할 위험을 방지하기 위해 등록이 종료됩니다. [!DNL Device Co-op] 준비하는 데 몇 개월이 소요되고 서비스에서 값을 추출하는 데 몇 개월이 소요됩니다. 이 시점에서 추가로 가입하면 브랜드들이 [!DNL Device Co-op]의 전체 가치를 경험하지 못할 수 있습니다.
 
 ## 2022년 7월 Google은 Chrome의 서드파티 쿠키 지원 중단을 2024년으로 연기한다고 발표했습니다. 이것이 [!DNL Device Co-op] EOL 계획에 영향을 미칩니까?
 
@@ -88,7 +88,7 @@ ht-degree: 100%
 
 ## [!DNL Device Co-op]에 내 데이터가 보관됩니까?
 
-[!DNL Audience Manager] 및 [!DNL Advertising Cloud] 사용자의 경우, [!DNL Device Co-op] 데이터를 서드파티 그래프로 전송할 수 없습니다. [!DNL Device Co-op] 데이터는 [!DNL Device Co-op]를 필드 기반 결합으로 전환하는 CDA를 사용하여 [!DNL Analytics Ultimate] 사용자에 대해서만 마이그레이션됩니다. 그 밖의 솔루션에서는 데이터가 마이그레이션되지 않습니다.
+[!DNL Audience Manager] 및 [!DNL Advertising Cloud] 사용자의 경우 [!DNL Device Co-op]의 데이터를 서드파티 그래프로 전송할 수 없습니다. [!DNL Device Co-op] [!DNL Device Co-op]이(가) 필드 기반 결합으로 전환되는 CDA를 사용하는 [!DNL Analytics Ultimate]명의 사용자에 대해서만 데이터가 마이그레이션됩니다. 그 밖의 솔루션에서는 데이터가 마이그레이션되지 않습니다.
 
 ## 다른 기능을 채택해야 합니까?
 
@@ -105,3 +105,4 @@ ht-degree: 100%
 ## [!UICONTROL 사용자] 지표는 어떻게 됩니까?
 
 [!DNL Device Co-op] 서비스 중단으로 인해 [!UICONTROL 사용자] 지표는 더 이상 관련이 없습니다. 2023년 5월 8일부로 [!UICONTROL 사용자] 지표가 제거될 예정입니다. 프로젝트, 세그먼트 및 계산된 지표가 손상되지 않도록 해당 시점에 관련 데이터는 [!UICONTROL 고유 방문자] 지표로 리디렉션될 예정입니다.
+
