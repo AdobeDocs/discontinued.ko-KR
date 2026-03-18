@@ -2,14 +2,17 @@
 title: '[!DNL Adobe Livefyre] 서비스 종료'
 description: Livefyre 및 Livefyre Studio에 대한 Livefyre 서비스 종료 알림.
 exl-id: 696f6363-7b17-4a05-bde7-e43141ea84de
-source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
+hold: true
+source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 94%
+source-wordcount: '245'
+ht-degree: 93%
 
 ---
 
 # [!DNL Adobe Livefyre] 서비스 종료
+
+3월 18일
 
 >[!IMPORTANT]
 >
