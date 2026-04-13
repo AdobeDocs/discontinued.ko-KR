@@ -6,9 +6,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 0d0c957441babe95bad242da4b1249f8019615d1
+source-git-commit: c12654fbc3d13ff53fd5daf3ba5ba2978c3922ca
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '240'
 ht-degree: 8%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 8%
 # 숨겨진 테스트
 
 2026년 3월 17일 - `hold: true`이(가) 꺼져 있습니다.
+
+2026년 4월 13일 - matt가 테스트 중
 
 새 키 테스트
 
