@@ -2,7 +2,7 @@
 description: Adobe Experience Cloud 라이브러리는 Adobe Experience Cloud 솔루션에서 자산을 저장, 검색 및 선택할 수 있는 범용 및 중앙 집중식 경험입니다.
 title: Adobe Experience Cloud 라이브러리
 exl-id: 4f1bb155-66f9-492f-9902-686c2758d341
-source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 96%
@@ -15,5 +15,5 @@ ht-degree: 96%
 
 **관련 기능**
 
-* [Experience Cloud Assets](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html?lang=ko){target=_blank}
-* [AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=ko){target=_blank}
+* [CX 엔터프라이즈 Assets](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html){target=_blank}
+* [AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html){target=_blank}
