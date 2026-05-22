@@ -15,5 +15,5 @@ ht-degree: 96%
 
 **관련 기능**
 
-* [CX 엔터프라이즈 Assets](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html){target=_blank}
-* [AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html){target=_blank}
+* [CX 엔터프라이즈 Assets](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html?lang=ko){target=_blank}
+* [AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=ko){target=_blank}
