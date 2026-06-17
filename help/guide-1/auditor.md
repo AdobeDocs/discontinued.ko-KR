@@ -2,7 +2,8 @@
 title: '[!DNL Adobe Experience Platform Auditor] 서비스 종료'
 description: 이 문서에서는  [!DNL Adobe Experience Platform Auditor] 및 그 후속 제품에 대해 설명합니다.
 exl-id: 326ae443-2974-4f0c-8c16-bfd2b8a6a70c
-source-git-commit: ead5fe8dbdd17a8f7fdec21bf5baeb3296b76fcb
+debug: true
+source-git-commit: 39808ed6dd5f60ef7443e8bfaa135a117a9ce00b
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 67%
