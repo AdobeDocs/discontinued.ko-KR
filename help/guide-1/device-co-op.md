@@ -3,16 +3,16 @@ keywords: device co-op;Device Co-op;수명 종료
 title: '[!DNL Device Co-op] 서비스 종료 FAQ'
 description: Device Co-op 서비스 종료 계획에 대해 자세히 알아보십시오.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
+source-git-commit: bd104719cf4dd8e9f2bb1c15f4d30e4ddfcf743c
 workflow-type: tm+mt
-source-wordcount: '1215'
+source-wordcount: '1213'
 ht-degree: 95%
 
 ---
 
 # [!DNL Device Co-op] 서비스 종료 FAQ
 
-이 문서에서는 CX Enterprise Device Co-op EOL(End-of-Life) 계획에 대해 자주 묻는 질문에 대한 답변을 제공합니다. 이 플랜이 적용되면 Adobe은 [CX Enterprise 중앙 릴리스 정보](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ko) 및 [우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)에 고급 알림을 제공합니다.
+이 문서에서는 Device Co-op EOL(수명 종료) 계획에 대해 자주 묻는 질문에 대한 답변을 제공합니다. 이 플랜이 적용되면 Adobe은 [Experience Cloud 중앙 릴리스 정보](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ko) 및 [우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)에 고급 알림을 제공합니다.
 
 [!DNL Device Co-op]는 최고 수준의 개인 정보 보호 및 투명성을 보장하면서 디지털 접점 전반에 걸쳐 소비자를 더 잘 식별하기 위해 참가자가 협력할 수 있는 프로그램이었습니다.
 
