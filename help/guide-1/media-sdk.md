@@ -57,7 +57,7 @@ Adobe은 또한 기존 하트비트 SDK에서 지원하지 못했던 여러 다�
 
 * [Media Edge 웹 SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-web-sdk.html)
 * [Media Edge Mobile SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)
-* [Media Edge API](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html)
+* [Media Edge API](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html?lang=ko)
 
 ## FAQ
 
@@ -120,6 +120,6 @@ Adobe은 모든 새 프로젝트에 대해 Edge Network 구현으로 마이그�
 
 >[!MORELIKETHIS]
 >
->* [스트리밍 미디어 구현 개요](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html)
->* [Edge Network용 스트리밍 미디어](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html)
->* [Media SDK 3.x — JavaScript 설정](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/web-implementation.html)
+>* [스트리밍 미디어 구현 개요](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html?lang=ko)
+>* [Edge Network용 스트리밍 미디어](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html?lang=ko)
+>* [Media SDK 3.x — JavaScript 설정](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/web-implementation.html?lang=ko)
