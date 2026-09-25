@@ -1,17 +1,15 @@
 ---
-title: Adobe Media SDK(버전 1.x 및 2.x) 사용 종료 FAQ
+title: Adobe Analytics Media SDK(버전 1.x 및 2.x) 사용 종료 FAQ
 description: Adobe Media SDK 버전 1.x 및 2.x(이전 비디오 하트비트 라이브러리)의 서비스 종료에 대해 자주 묻는 질문에 대한 답변을 얻으십시오.
-source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
+source-git-commit: 4056ba0953e81a279d25b15449c7b41a4a5eb7f9
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1051'
 ht-degree: 0%
-
 ---
 
+# Adobe Analytics Media SDK(버전 1.x 및 2.x) 사용 종료 FAQ
 
-# Adobe Media SDK(버전 1.x 및 2.x) 사용 종료 FAQ
-
-Adobe Media SDK **2.x는 2021년 8월 31일**&#x200B;에 지원이 종료되었습니다. VHL(비디오 하트비트 라이브러리) **1.x는 더 이상 사용되지 않습니다**. 몇 년 동안 지원되지 않습니다.
+Adobe Media SDK **2.x는 2021년 8월 31일**&#x200B;에 지원이 종료되었습니다. 비디오 하트비트 라이브러리(VHL) **1.x는 2017년 7월 25일**&#x200B;에 지원이 종료되었습니다.
 
 ## 현재 상황
 
@@ -44,21 +42,21 @@ Adobe은 또한 기존 하트비트 SDK에서 지원하지 못했던 여러 다�
 
 | 버전 | 상태 | 보관된 설명서 |
 |---|---|---|
-| 1.x (비디오 하트비트 라이브러리) | 사용되지 않음 | [`video-heartbeat` GitHub 저장소](https://github.com/Adobe-Marketing-Cloud/video-heartbeat/tree/master/docs) |
+| 1.x (비디오 하트비트 라이브러리) | 지원 종료 2017년 7월 25일 | [`video-heartbeat` GitHub 저장소](https://github.com/Adobe-Marketing-Cloud/video-heartbeat/tree/master/docs) |
 | 2.x (Media SDK) | 2021년 8월 31일 지원 종료 | [`media-sdks` GitHub 저장소](https://github.com/Adobe-Marketing-Cloud/media-sdks/blob/master/docs/2.x/README.md) |
 
 ## 전환 선택 사항은 무엇입니까?
 
 **옵션 1: Media SDK 3.x(Analytics 전용)로 마이그레이션**
 
-2.x를 사용하고 Adobe Analytics만 사용하는 경우 3.x로 마이그레이션하는 것이 가장 간단한 경로입니다. 전체 API 비교 및 코드 예는 [2.x에서 3.x로 마이그레이션 안내서](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html?lang=ko)를 참조하십시오.
+2.x를 사용하고 Adobe Analytics만 사용하는 경우 3.x로 마이그레이션하는 것이 가장 간단한 경로입니다. 전체 API 비교 및 코드 예는 [2.x에서 3.x로 마이그레이션 안내서](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html)를 참조하십시오.
 
 **옵션 2: Edge Network용 Streaming Media로 마이그레이션(권장)**
 
 새로운 구현의 경우 또는 여러 Adobe 애플리케이션에서 데이터를 사용하려는 경우 Adobe Experience Platform Edge Network을 사용하십시오.
 
-* [Media Edge 웹 SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-web-sdk.html?lang=ko)
-* [Media Edge Mobile SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=ko)
+* [Media Edge 웹 SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-web-sdk.html)
+* [Media Edge Mobile SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)
 * [Media Edge API](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html?lang=ko)
 
 ## FAQ
@@ -77,7 +75,7 @@ Adobe은 또한 기존 하트비트 SDK에서 지원하지 못했던 여러 다�
 
 +++**아직 Media SDK 2.x에 있습니다. 어떻게 해야 합니까?**
 
-Adobe은 모든 새 프로젝트에 대해 Edge Network 구현으로 마이그레이션할 것을 권장합니다. 중간 단계가 필요한 경우 [JavaScript SDK 2.x에서 3.x로 마이그레이션](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html?lang=ko)한 다음 Edge Network으로 이동할 계획을 세우십시오.
+Adobe은 모든 새 프로젝트에 대해 Edge Network 구현으로 마이그레이션할 것을 권장합니다. 중간 단계가 필요한 경우 [JavaScript SDK 2.x에서 3.x로 마이그레이션](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html)한 다음 Edge Network으로 이동할 계획을 세우십시오.
 
 +++
 
@@ -85,8 +83,8 @@ Adobe은 모든 새 프로젝트에 대해 Edge Network 구현으로 마이그�
 
 마이그레이션 작업은 각 고객의 구현에 따라 다르며, 상황에 따라 다릅니다. 마이그레이션 설명서를 검토한 후 추가 지원을 받으려면 컨설팅 또는 고객 지원 센터에 문의하십시오.
 
-* [Mobile Edge SDK을 사용하여 Streaming Media 구현 - Android 및 iOS](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=ko)
-* [JavaScript SDK 2.x에서 3.x로 마이그레이션](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html?lang=ko)
+* [Mobile Edge SDK을 사용하여 Streaming Media 구현 - Android 및 iOS](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)
+* [JavaScript SDK 2.x에서 3.x로 마이그레이션](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html)
 
 +++
 
@@ -98,13 +96,13 @@ Adobe은 모든 새 프로젝트에 대해 Edge Network 구현으로 마이그�
 
 +++**이러한 지원이 tvOS용 SDK에 영향을 줍니까?**
 
-예. tvOS(버전 10+)의 경우 권장되는 구현은 Adobe Experience Platform Mobile SDK을 사용하여 Edge Network용 스트리밍 미디어로 마이그레이션하는 것입니다. 자세한 내용은 [모바일 Edge SDK을 사용하여 스트리밍 미디어 구현](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=ko)을 참조하십시오.
+예. tvOS(버전 10+)의 경우 권장되는 구현은 Adobe Experience Platform Mobile SDK을 사용하여 Edge Network용 스트리밍 미디어로 마이그레이션하는 것입니다. 자세한 내용은 [모바일 Edge SDK을 사용하여 스트리밍 미디어 구현](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)을 참조하십시오.
 
 +++
 
 +++**이러한 지원이 Fire TV 및 Android TV용 SDK에 영향을 줍니까?**
 
-예. Fire TV 및 Android TV의 경우 권장되는 구현은 Adobe Experience Platform Mobile SDK을 사용하여 Edge Network용 스트리밍 미디어로 마이그레이션하는 것입니다. 자세한 내용은 [모바일 Edge SDK을 사용하여 스트리밍 미디어 구현](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=ko)을 참조하십시오.
+예. Fire TV 및 Android TV의 경우 권장되는 구현은 Adobe Experience Platform Mobile SDK을 사용하여 Edge Network용 스트리밍 미디어로 마이그레이션하는 것입니다. 자세한 내용은 [모바일 Edge SDK을 사용하여 스트리밍 미디어 구현](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)을 참조하십시오.
 
 +++
 
