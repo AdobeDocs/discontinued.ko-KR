@@ -7,9 +7,7 @@ source-git-commit: bd104719cf4dd8e9f2bb1c15f4d30e4ddfcf743c
 workflow-type: tm+mt
 source-wordcount: '1213'
 ht-degree: 95%
-
 ---
-
 # [!DNL Device Co-op] 서비스 종료 FAQ
 
 이 문서에서는 Device Co-op EOL(수명 종료) 계획에 대해 자주 묻는 질문에 대한 답변을 제공합니다. 이 플랜이 적용되면 Adobe은 [Experience Cloud 중앙 릴리스 정보](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=ko) 및 [우선 순위 제품 업데이트](https://www.adobe.com/kr/subscription/priority-product-update.html)에 고급 알림을 제공합니다.
