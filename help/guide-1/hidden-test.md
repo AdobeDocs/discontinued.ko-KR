@@ -41,7 +41,7 @@ ht-degree: 8%
 
 [딥링크로 새 탭 연결](https://experienceleague.adobe.com/ko/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
-[외부 링크가 있는 새 탭](https://www.adobe.com){target="_blank"}
+[외부 링크가 있는 새 탭](https://www.adobe.com/kr){target="_blank"}
 
 [새 탭 루트 링크](/help/guide-1/auditor.md){target="_blank"}
 
@@ -52,12 +52,12 @@ ht-degree: 8%
     <th>따옴표 제외</th>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com" target="_blank">Adobe 새 탭</a></td>
-    <td><a href="https://www.adobe.com" target="_blank">Adobe 새 탭</td>
+    <td><a href="https://www.adobe.com/kr" target="_blank">Adobe 새 탭</a></td>
+    <td><a href="https://www.adobe.com/kr" target="_blank">Adobe 새 탭</td>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com">Adobe 새 탭 없음</a></td>
-    <td><a href="https://www.adobe.com">Adobe 새 탭 없음</td>
+    <td><a href="https://www.adobe.com/kr">Adobe 새 탭 없음</a></td>
+    <td><a href="https://www.adobe.com/kr">Adobe 새 탭 없음</td>
   </tr>
 </table>
 
